@@ -1,0 +1,30 @@
+.a{
+			margin-left:auto;
+			margin-right:auto;	
+			width:80%;
+			height:40px;
+			font-size:30px;
+			}
+		
+		.b1{
+			width:80%;
+			height:70%;
+			margin:auto;
+			}
+		.b1 span{
+			color:red;
+			font-size:12px;
+			}
+		
+		.b1 input{
+			width:200px;
+			border-radius:7px;
+			height:30px;
+		}
+		.b1 div{
+			margin-bottom:10px;
+			font-size:12px;
+			margin-left:auto;
+			margin-right:auto;
+			width:308px;
+			}
